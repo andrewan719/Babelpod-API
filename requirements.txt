@@ -1,0 +1,10 @@
+Flask==2.3.2
+requests==2.30.0
+firebase-admin==6.3.0
+pillow
+Werkzeug==2.3.4
+Flask-Cors==3.0.10
+google-cloud-core==2.3.2
+google-cloud-firestore>=2.1.0
+openai
+gunicorn==20.1.0
